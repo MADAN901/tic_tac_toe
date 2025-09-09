@@ -21,7 +21,7 @@ It demonstrates core React concepts like state management, props, and conditiona
 ---
 
 ## 🌐 Live Demo  
-👉 [Play Here](https://your-username.github.io/tic-tac-toe/)  
+👉 [Play Here](http://localhost:3001)  
 
 ---
   
