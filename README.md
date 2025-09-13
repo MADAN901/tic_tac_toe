@@ -1,7 +1,6 @@
 # 🎮 Tic Tac Toe  
 
-A simple and interactive **Tic Tac Toe game** built with **React**.  
-It demonstrates core React concepts like state management, props, and conditional rendering while providing a fun and engaging user experience.  
+ **Tic Tac Toe game** built with **React**.  
 
 ---
 
@@ -21,7 +20,7 @@ It demonstrates core React concepts like state management, props, and conditiona
 ---
 
 ## 🌐 Live Demo  
-👉 [Play Here](http://localhost:3001)  
+👉 [Play Here](https://tic-tac-toe-lovat-three-96.vercel.app) 
 
 ---
   
